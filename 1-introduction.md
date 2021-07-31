@@ -1,35 +1,72 @@
-السلام عليكم ورحمة الله وبركاته  
-اليوم موضعنا باذن الله عن 
-كورس PTS , وشهادة eJPT 
-في البداية كورس
- PTS اختصار الى Penetration Testing student مقدم من شركة ine 
-طبعًا هذا الكورس بعد الانتهاء منه يجعلك قادر على دخول على اختبار
- eJPT , eJPT اختصار للى eLearnSecurity junior penetration tester 
+# السلام عليكم ورحمة الله وبركاته  
+اليوم موضعنا باذن الله عن:
 
-مقدمة عن كورس PTS : 
-كورس PTS 
+
+كورس PTS , وشهادة eJPT
+
+
+في البداية كورس اختصار الى  PTS
+
+
+  Penetration Testing student مقدم من شركة ine
+ 
+ 
+طبعًا هذا الكورس بعد الانتهاء منه يجعلك قادر على دخول على اختبار
+ 
+ 
+ eJPT 
+ 
+ eJPT اختصار للى eLearnSecurity junior penetration tester 
+
+مقدمة عن كورسPTS :
+
+PTS كورس 
+
+
 من اجمل الكورسات اللي ممكن تبدأ فيها مسيرتك في اختبار الاختراق كورس يحتوي على معلومات رهيبه ومشروحه بطريقة مبسطه جدًا 
 كورس جدًا ممتع 
 الكورس مقسم ثلاث اقسام 
-Penetration testing prerequisites 
-Penetration testing: preliminary Skills & programming 
+
+
+Penetration testing prerequisites
+
+Penetration testing: preliminary Skills & programming
+
 Penetration testing basics 
+
 وباذن راح افصل فيهم كلهم كل قسم لحاله 
 
-مقدمة عن شهادة eJPT : 
+مقدمة عن شهادة eJPT :
+
+
 شهادة 
-eJPT شهادة مقدمة من شركة eLearnSecurity 
+eJPT شهادة مقدمة من شركة eLearnSecurity
+
+
 وهي من افضل الشهادات اللي ممكن تحصل عليها في بدايتك في مجال اختبار الاختراق 
 وتفتح لك مجالات كثير بعد حصولك عليه مثلًا 
- eWPT او eCPPT 
+ 
+ 
+ eWPT او eCPPT
+ 
+ 
 طبعًا كلها بل البداية تحتاج تكون فاهم
  eJPT 
-اختبار eJPT 
+ 
+ 
+اختبار eJPT
+
+
 مكون من ٢٠ سوال عملي بحت 
 والاجوبة اختيار متعدد 
  الوقت ٣ ايام بعدها ينتهي وقت الاختبار 
+ 
  طريقة الاختبار
- تحمل ملف vpn 
+ 
+ 
+ تحمل ملف vpn
+ 
 وتشبك عليه وتدخل وتحاول تجاوب على الاسئلة الاختبار واضح جدًا 
 رسوم الاختبار
+ 
  ٢٠٠$
