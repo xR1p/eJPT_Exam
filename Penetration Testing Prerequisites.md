@@ -56,6 +56,8 @@ https://tryhackme.com/room/whatisnetworking
 ونجي لقسم اساسيات الويب
 في هذا القسم راح يبدا يشرح لك كيف الويب يشتغل 
 والبروتوكولات والكوكيز والسشن وكيف تستخدم 
+
+
 Burpsuite 
 
 ب اساسيات الويب راح يشرح الهيدرز والريكوست والرسبون وكل حاجه 
@@ -70,8 +72,15 @@ https://tryhackme.com/room/webfundamentals
 
 وبكذا نكون خلصنا قسم 
 
-Penetration testing prerequisites 
+
+Penetration testing prerequisites
+
+
 اتمنى يارب كان واضح 
 واذا في شيء مو واضح تقدر تتواصل معي عن طريق تويتر او تلقرام 
+
+
 Twitter:oqv_o
+
+
 Telegram:O_als
