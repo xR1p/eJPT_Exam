@@ -22,15 +22,15 @@ Http(s) Traffic sniffing
 
 Protocols 
 
-https://www.youtube.com/watch?v=ULj8VWOzveY (https://www.youtube.com/watch?v=ULj8VWOzveY)
+https://www.youtube.com/watch?v=ULj8VWOzveY 
 
 Routing 
 
-https://www.youtube.com/watch?v=gQtgtKtvRdo (https://www.youtube.com/watch?v=gQtgtKtvRdo)
+https://www.youtube.com/watch?v=gQtgtKtvRdo 
 
 TCP & UDP 
 
-https://www.youtube.com/watch?v=uwoD5YsGACg (https://www.youtube.com/watch?v=uwoD5YsGACg)
+https://www.youtube.com/watch?v=uwoD5YsGACg 
 
 طبعًا هذه بعض المصادر اللي ممكن تحصلها 
 بس مهم مره تفهم قسم الشبكات وتفهم كيف تستخدم الواير شارك وتحلله 
